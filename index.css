@@ -77,7 +77,7 @@ body> background-image{
     font-size: x-large;
     background-color: white;
   }
-  /* #learn{
+  #learn{
     margin-left: 60%;
     background-color: black;
     color: yellow;
@@ -122,7 +122,7 @@ body> background-image{
     font-size: 70px;
     font-family: 'Times New Roman';
 }
-.nav li{
+/* .nav li{
     display: inline;
     list-style: none;
 }
@@ -354,5 +354,5 @@ span{
 }
 
 
- */
 
+ */
