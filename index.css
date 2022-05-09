@@ -1,0 +1,358 @@
+
+.Part1{
+    background-image: url(./Images/moving\ 1.png);
+    margin-top: -300px;
+    height: 100vh;
+    opacity: 2.5;
+    margin-left: -10px;
+
+}
+.navbar li{
+    display: inline;
+    list-style: none;
+    font-size: x-large;
+    position: relative;
+    text-align: center;
+}
+.navbar{
+    padding-left: 30%;
+    justify-content: space-between;
+    margin-bottom: auto;
+    margin-top: 10%;
+    padding-top: 50px;
+}
+.navbar ul{
+    margin-top: 5%;
+}
+#Home{
+    padding-right: 30px;
+    color:white;
+}
+#AboutUs{
+    padding-left: 30px;
+    color:white;
+}
+#Movers{
+    padding-left: 30px;
+    color:white;
+}
+#Contact{
+    padding-left: 30px;
+    color:white;
+}
+#Login{
+    padding:5px 8px;
+    background-color: yellow;
+    color:black;
+    margin-left: 30px;
+
+}
+#Log{
+    padding:5px 8px;
+    color:yellow;
+    background-color: black;
+    color:yellow;
+    margin-left: 40px;
+}
+#section1{
+    font-size: 100px;
+    color: yellow;
+    padding-left: 270px;
+}
+#section2{
+    font-size: 60px;
+    color: gray;
+    padding-left: 270px;
+    margin-bottom: 10%;
+}
+body> background-image{
+    height: 100vh;
+    width:400px;
+}
+  .Cut{
+      margin-left: 60%;
+  }
+  .moving21 p{
+    margin-left: 60%;
+    font-size: x-large;
+    background-color: white;
+  }
+  #learn{
+    margin-left: 60%;
+    background-color: black;
+    color: yellow;
+    font-size: x-large;
+  }
+  #dash{
+      width:100px;
+      text-decoration: dashed;
+  }
+  #image21{
+      margin-top: 5%;
+     height: -1000vh;
+     margin-left:-10px;
+  }
+  .moving21{
+      display: flex;
+      align-items: center;
+      gap: 0%;
+  }
+.Part2{
+    font-size: xx-large;
+    flex-basis: 37%;
+}
+.Part3{
+    margin-top:10%;
+    box-sizing: border-box;
+    border-style:initial;
+    margin-left:-10px;
+    background-color:gainsboro;
+    border:2px whitesmoke;
+    justify-content: space-between;
+    margin-top: 2%;
+}
+.Photos{
+    background-color:gainsboro;
+    
+}
+.Our{
+    padding-top: 10%;
+    margin-bottom: 10%;
+    padding-left: 5%;
+    font-size: 70px;
+    font-family: 'Times New Roman';
+}
+.nav li{
+    display: inline;
+    list-style: none;
+}
+.nav{
+    padding-left: 30%;
+    background-color: black;
+    height:300px;
+    margin-top:-1%;
+    margin-left:-8px;
+
+}
+#navlink{
+    padding-left: 10%;
+    background-color: black;
+    font-size: large;
+}
+#work{
+    padding-left: 40%;
+    margin-left: 10%;
+    background-color:orange;
+    font-size: x-large;
+    padding: 2px 5px;
+    border-radius: 2%;
+}
+table,tr,td{
+    border:1px black;
+}
+.CH{
+    padding-left: 30%;
+    display:flex;
+    flex-direction: row;
+    font-size: large;
+    margin-top: 4%;
+    padding-bottom:10%;
+}
+.Features{
+    list-style: none;
+}
+.First{
+    padding-left: 5%;
+    display: flex;
+}
+.Second{
+    padding-left: 5%;
+    padding-top: 40px;
+}
+.Column2{
+    padding-left: 20%;
+}
+#A{
+    background-color: white;
+    margin-top: -1%;
+}
+.last{
+    background-color: black;
+    color:white;
+    height:1200;
+    margin-left: -6%;
+}
+.move{
+    margin-left: 15%;
+    font-size: xx-large;
+    padding-top: 5%;
+}
+span{
+    color:orange;
+}
+.Column2{
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.modern{
+    color:white;
+    padding-top: 4%;
+    margin-left:-20%
+}
+.Number{
+    padding-left:50%;
+    font-size: x-large;
+    color:white;
+}
+.No{
+    padding-left:71%;
+    color:white;
+    font-size: small;
+}
+.property img{
+    padding-left: 10%;
+}
+.table{
+    float:right;
+    margin-top: 10%;
+    background-color: white;
+    align-items: center;
+    padding: 2rem;
+    border: 0.1rem solid grey;
+    text-align: center;
+    margin:4%;
+    margin-right:35%;
+}
+#Kay{
+    border:0.1rem solid whitesmoke;
+    align-items: center;
+    border: 0.1rem solid grey;
+    background-color:gainsboro;
+    padding:2px 8px;
+}
+#name{
+    border:0.1rem solid whitesmoke;
+    align-items: center;
+    border: 0.1rem solid grey;
+    background-color: white;
+    padding:2px 8px;
+}
+#phone{
+    border:0.1rem solid whitesmoke;
+    align-items: center;
+    border: 0.1rem solid grey;
+    background-color: white;
+    padding:2px 8px;
+}
+#email{
+    border:0.1rem solid whitesmoke;
+    align-items: center;
+    border: 0.1rem solid grey;
+    background-color: white;
+    padding:2px 8px;
+}
+#hello{
+    border:0.1rem solid whitesmoke;
+    align-items: center;
+    border: 0.1rem solid grey;
+    background-color: white;
+    padding:2px 8px;
+}
+.learn{
+    padding:5px 15px;
+    background-color: black;
+    color:white;
+    font-size: xx-large;
+}
+#Yellow{
+    color:orange;
+}
+.Part11{
+    background-color: gainsboro;
+}
+.Rectangles{
+    display: flex;
+    padding-top: 1%;
+    margin-left: 6%;
+}
+#one{
+    padding-left: 20px;
+}
+#one{
+    padding-left: 20px;
+}
+#two{
+    padding-left: 20px;
+}
+#three{
+    padding-left: 20px;
+}
+#five{
+    padding-left: 20px;
+}
+#six{
+    padding-left: 20px;
+}
+#four{
+    padding-left: 20px;
+}
+.Description{
+    margin-left: 10%;
+    background-color: white;
+    border-radius: 3rem;
+    border:0.1rem solid gray;
+    padding: 2rem;
+    margin-top: 30px;
+    margin-right: 50%;
+}
+.Features li{
+    list-style: none;
+}
+.Features{
+    padding-left: 9%;
+}
+.columnB{
+    margin-left: 20%;
+    margin-top: -4%;
+}
+.columnc{
+    margin-left: 40%;
+    margin-top: -4%;
+}
+.Malto{
+    display: flex;
+}
+#nane{
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#kumi{
+    padding-left: 5%;
+}
+.make{
+    background-color: black;
+    color:white;
+    height:400px;
+    margin-left: -1%;
+    padding-top: 3%;
+    padding-left: 3%;
+    font-size: x-large;
+}
+#with{
+    margin-left: 50%;
+    background-color: orange;
+    font-size: large;
+}
+.Similar{
+    padding-left: 10%;
+    padding-bottom: 6%;
+}
+.column{
+    padding-left: 20%;
+    display: flex;
+    margin-top: 5%;
+}
+
+
+
+
