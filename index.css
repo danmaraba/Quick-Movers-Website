@@ -14,14 +14,14 @@
     position: relative;
     text-align: center;
 }
-/* .navbar{
+.navbar{
     padding-left: 30%;
     justify-content: space-between;
     margin-bottom: auto;
     margin-top: 10%;
     padding-top: 50px;
 }
-.navbar ul{
+/* .navbar ul{
     margin-top: 5%;
 }
 #Home{
