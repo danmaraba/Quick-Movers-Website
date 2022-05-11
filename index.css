@@ -149,6 +149,7 @@ body> background-image{
 }
 table,tr,td{
     border:1px black;
+
 }
 .CH{
     padding-left: 30%;
@@ -166,8 +167,10 @@ table,tr,td{
     display: flex;
 }
 .Second{
-    padding-left: 5%;
+    padding-left: 3%;
     padding-top: 40px;
+    display: flex;
+    margin-top: -20%;
 }
 .Column2{
     padding-left: 20%;
@@ -222,6 +225,7 @@ span{
     text-align: center;
     margin:4%;
     margin-right:35%;
+
 }
 #Kay{
     border:0.1rem solid whitesmoke;
@@ -305,11 +309,25 @@ span{
     margin-top: 30px;
     margin-right: 50%;
 }
-.Features li{
+.Features > div ul li{
     list-style: none;
+margin-bottom: 0.5rem;
+    
+}
+.features-container{
+    display: flex;
+}
+
+.Features > div ul li span.icon{
+    background-color: orange;
+    padding: 0.2rem .4rem;
+color: #fff;
+border-radius: 50%;
+    
 }
 .Features{
     padding-left: 9%;
+    
 }
 .columnB{
     margin-left: 20%;
@@ -360,7 +378,70 @@ span{
     padding-left: 20px;
     padding-right: 20px;
 }
-
+#socialicons{
+    padding-right: 10%;
+    margin-right: 10%;
+}
+#M{
+    margin-left: 8%;
+    margin-bottom:65%;
+    background-color: white;
+    text-align: center;
+}
+#U{
+    background-color: white;
+    text-align: center;
+}
+#A{
+    background-color: white;
+    text-align: center; 
+}
+#Mo{
+    background-color: white;
+    text-align: center; 
+}
+#S{
+    background-color: white;
+    text-align: center; 
+}
+#Upe{
+    background-color: white;
+    text-align: center; 
+}
+.one, .two,.three{
+    display:inline;
+    border-right: solid grey;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.three img{
+    padding-top: -20%;
+    height: 40px;
+}
+.line{
+    height: 4px;
+    width:200px;
+    background-image: linear-gradient(to right, orange,black);
+    float: right;
+}
+.Topline{
+    height: 4px;
+    width:200px;
+    background-image: linear-gradient(to right, orange,black);
+    float: left;
+    margin-bottom: 10%;
+}
+#blackicons{
+    padding-right: 10%;
+    margin-right: 10%;
+}
+.address{
+    color:white;
+    display: flex;
+    font-size: larger;
+    padding-left: 30%;
+    padding-top: -4%;
+}
 
 
 
